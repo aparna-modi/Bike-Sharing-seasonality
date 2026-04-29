@@ -1,6 +1,6 @@
 streamlit
 pandas
 plotly
-sklearn
+scikit-learn
 statsmodels
 matplotlib
